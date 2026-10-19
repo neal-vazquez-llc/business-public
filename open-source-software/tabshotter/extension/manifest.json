@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "TabShotterUwU",
+  "version": "0.1.0",
+  "description": "Review and save an inert, SHA-256-tagged capture of your current tab's live DOM.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {"default_popup": "popup.html", "default_title": "Review a TabShotterUwU capture"},
+  "commands": {"_execute_action": {"suggested_key": {"default": "Ctrl+Shift+Y", "mac": "Command+Shift+Y"}}},
+  "content_security_policy": {"extension_pages": "script-src 'self'; object-src 'none'; connect-src 'none'; img-src 'none'; frame-src 'self'; base-uri 'none'; form-action 'none'"}
+}
