@@ -4,6 +4,14 @@ TabShotter is a user-controlled browser snapshot tool developed by **Neal Vazque
 
 It is intended to help a person preserve what a browser tab showed them, with explicit capture, review before saving, and no upload path for captured pages.
 
+## Current release
+
+TabShotter v0.1.0 is available as a Chromium MV3 extension package from the official Neal Vazquez LLC website:
+
+https://neal-vazquez.com/downloads/tabshotter/tabshotter-chromium-0.1.0.zip
+
+Verify the download with the SHA-256 value in `SHA256SUMS.txt` on the website. The package is intended for Chromium-based browsers that support Manifest V3. It is not a Firefox add-on or a Windows, macOS, or Linux installer.
+
 ## Desktop compatibility target
 
 The release plan prioritizes a simple installer for each desktop family:
@@ -18,12 +26,10 @@ The final support matrix will name exact operating-system versions only after th
 
 ## Release boundary
 
-The official release channels are the Neal Vazquez LLC website and this GitHub repository. No third-party mirror, extension store, package registry, model hub, or community upload is planned.
-
-The project is not downloadable yet. The MIT License is staged with the source package; source-rights confirmation, browser-security review, package checksums, and release notes remain before publication.
+The official release channels are limited to the Neal Vazquez LLC website and this GitHub repository. No third-party mirror, extension store, package registry, model hub, or community upload is planned. The website package is a limited Chromium release; broader browser and desktop support remains planned and unclaimed.
 
 ## Ownership and attribution
 
 - Developed by: Neal Vazquez
 - Released by: Neal Vazquez LLC
-- Official website: https://neal-vazquez.com/corporate/open-source-software
+- Official website: https://neal-vazquez.com/corporate/open-source
