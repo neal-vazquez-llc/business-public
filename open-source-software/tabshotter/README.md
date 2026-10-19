@@ -20,7 +20,7 @@ The final support matrix will name exact operating-system versions only after th
 
 The official release channels are the Neal Vazquez LLC website and this GitHub repository. No third-party mirror, extension store, package registry, model hub, or community upload is planned.
 
-The project is not downloadable yet. A license, source package, installers, checksums, security review, and release notes will be added before publication.
+The project is not downloadable yet. The intended license is MIT; source-rights confirmation, source package, installers, checksums, security review, and release notes remain before publication.
 
 ## Ownership and attribution
 

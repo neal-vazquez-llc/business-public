@@ -15,7 +15,7 @@ No third-party model hub, extension store, package registry, mirror, or communit
 
 ## Release status
 
-TabShotter is in release preparation. The source, license, installers, checksums, and download links will be added only after rights confirmation, browser-security validation, clean-machine installer testing, and final package review. Until then, this directory is a public-facing project index, not a downloadable release.
+TabShotter is in release preparation under the MIT License. The source, installers, checksums, and download links will be added only after rights confirmation, browser-security validation, clean-machine installer testing, and final package review. Until then, this directory is a public-facing project index, not a downloadable release.
 
 ## Attribution
 
