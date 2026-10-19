@@ -1,6 +1,6 @@
 # Business Public
 
-Public business portfolio, open-source software, published work, public products, gaming projects, and intentionally published company information.
+Public business repository for intentionally published open-source software and the SQL/Python showcase.
 
 ## Start here
 
@@ -21,16 +21,12 @@ The repository boundary already supplies `scope=business` and `visibility=public
 
 ## Areas
 
-- `consulting-career`
-- `writing`
-- `art`
-- `gaming`
-- `products`
-- `company`
+- `open-source`
+- `python-sql-showcase`
 
 ## Migration status
 
-This repository is a canonical target for the additive four-repository migration started 2026-09-22.
+This repository is the public release surface for software and technical showcase material only.
 
 Legacy repositories remain available during import and verification. No old repository, branch, tag, license, evidence record, or deployment reference is retired merely because this root now exists.
 
